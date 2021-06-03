@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation concerning the well-ordering the trade of making and selling of soape.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13081</idno><idno type="EEBO-CITATION">99892676</idno>
+  <idno type="VID">188194</idno>
+  <idno type="EEBO-PROQUEST">2240931353</idno>
+  
+            <idno type="STC">STC 9019</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.1[40]</idno>
+            <idno type="STC">ESTC S123852</idno>
+            <idno type="PROQUEST">ocm99892676</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892676e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13081)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188194)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:1[40])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation concerning the well-ordering the trade of making and selling of soape.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>3 leaves (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Barker, printer to the Kings most excellent Maiestie: and by the assignes of Iohn Bill,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>1634].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Announcing commissions to inquire into the price of soap; enforcing the Soapmakers' Co. monopoly."--STC.</note>
+                  <note>Dated at end: Giuen at the court at Theobalds the thirteenth day of Iuly, in the tenth yeere of Our reigne ...</note>
+                  <note>Arms 24; Steele notation: Our Subiects 2)maliciously 3)the 4)Kingdoms command.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Soap trade --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:188194:1"/>
+            <head>
+               <figure>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+               </figure>
+            </head>
+            <head>❧ By the King.</head>
+            <head type="sub">❧ A Proclamation concerning the well-ordering the Trade of making and selling of Soape.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas Wee haue declared by two former Proclamations Our</hi> Princely care for the aduancement of the natiue Commodities of Our Kingdomes, the imployment of many of Our poore people, and the reformation of diuers former abuses in making of Soape: Wee now finding by experience, that many factious and refractory persons haue not onely disobeyed Our Royall Commandements, but haue studied diuers new wayes to hinder all Our good intentions to Our louing Subiects, some by vsing of <hi>Castile, Venice, Smyrna,</hi> and <hi>English</hi> hard Soape from the Westerne parts, and by dissoluing of it to multiply or increase it, who for<g ref="char:EOLhyphen"/>merly neuer vsed any of that kinde in that maner, some by bringing in great quantity of Fish<g ref="char:EOLhyphen"/>oyle Soape, and other Soape from <hi>Scotland, France</hi> and <hi>Holland,</hi> and diuers other places, some by procuring the increase of making of Soape in places where small quantities of Soape were formerly made, seruing onely for the places neare adioyning, and dispersing it ouer the Realme, where was neuer vse of that Soape before, others by perswading of Our Subiects that they could instruct housholders, and other priuate persons to make Soape at easie rates for their vses, therein abusing and deceiuing them with purpose to cause them for a while to forbeare the vse of the new made Soape, hoping thereby to ouerthrow the vse of making Soap of the natiue commodities of this Kingdome. And besides all these inuentions, they haue not onely raysed the prices of the old Soape to such excessiue rates, that Our louing Subiects haue payed euen heere in Our Citie of <hi>London,</hi> sixe pence a pound for the same, and in many o<g ref="char:EOLhyphen"/>ther parts of Our Kingdome eight pence, tenne pence, and twelue pence the pound, which was wont to be sold for three pence, or three pence halfe peny; But in like manner also to bring the new white Soape into dislike, they haue purposely abused and falsified it, and haue maliciously presumed to sell it by retaile for like inordinate prices. For the remedy of all which inconueni<g ref="char:EOLhyphen"/>ences, and for the better preuenting of their malice in the like attempts, We haue resolued with the aduice of Our Priuie Councell to settle and establish the Manufacture of Soape, accor<g ref="char:EOLhyphen"/>ding to such powers and prouisions, as in cases of like nature haue from time to time beene or<g ref="char:EOLhyphen"/>dered and put in execution.</p>
+            <pb facs="tcp:188194:2"/>
+            <p> And therefore for the better finding out and discouery of all offenders against Our said two former Proclamations, and such as shall disobey Our further Commands in this Our present Edict, and the Decrees of Our Court of Star-Chamber, and Letters Patents made concer<g ref="char:EOLhyphen"/>ning the premises; Our will and pleasure is, and Wee doe hereby require and Command, that the Keeper of Our Great Seale, or Our Treasurer, Chancellor, and Barrons of Our Ex<g ref="char:EOLhyphen"/>chequer, or the Chancellor of Our Dutchie of Lancaster, for the time being respectiuely, shall and doe award such and so many Commissions, to such persons, and of such tenour and effect as they shall thinke fit, for the rectifying of the prices of Soape vpon any such complaint, as in that behalfe shall bee made vnto them, and for the examining and finding out of all of<g ref="char:EOLhyphen"/>fences and offenders against Our Proclamations, Decrees, and Letters Patents, to the end that aswell the Importers, bringers in, carriers, and makers of all Soape prohibited, and the sellers of Soape at prices excessiue, as the buyers, sellers, spenders, and receiuers thereof, may receiue condigne punishment for their seuerall offences.</p>
+            <p>And because some complaints haue deene made to Vs, and to Our Priuie Councell, by some particular Tradesmen; As namely, Silke-Diers, Wooll-combers, Weauers, Say-thickers, Fullers, and the like, that their Trades doe require some other sorts of Soape, then such as now is vsed and made by the said Corporation, and other then that which was formerly com<g ref="char:EOLhyphen"/>monly made in Our Citie of <hi>London,</hi> according to the quality of their seuerall Manufactures.</p>
+            <p>Therfore Our further will and pleasure is, and Wee doe hereby straitly charge and command the Gouernour for the time being, and the Society of the Soape-makers, And doe by these presents authorize them, and appoint that they shall and may from time to time make, and cause to be made such quantities, and such a proportion of any other sort of soft Soape, as shall bee requisite for the necessary vse of the sayd Tradesmen in their said seuerall Trades onely, and not otherwise, nor for any other vse whatsoeuer. Prouided alwayes, that no soft Soape be fold to the sayd Tradesmen by the said Corporation, at the place where it shall bee made, for aboue three pence the pound.</p>
+            <p>And to the end that Soape shall not bee sold at any such excessiue prices and rates as now it is, by the fraud of the vndue-makers and Retaylers, but at such indifferent and moderate rates and prices as may bee conuenient betwixt the Buyer and the Seller: It is Our will and pleasure, and Wee doe hereby straitly charge and command, that the Maior, Bayliffe, or other chiefe Officer in euery Citie and Towne corporate, with the assistance of two of the next Iustices of the Peace of that County, or the two next adioining Iustices of the Peace where the said Retaylers dwell out of a Citie or Towne Corporate, vpon any complaint that shall bee made of any excessiue rates or prices, doe set such rates and prices vpon all Soape that shall bee Retayled, as they in their best Iudgements shall thinke fit and reasonable, con<g ref="char:EOLhyphen"/>sideration being by them had, aswell of the setled price payed to the Corporation, as of the Charge of Carriage, Sea-aduenture, and other charges and casualties thereunto belonging, with fit and reasonable gaines to the Retayler.</p>
+            <p>And if it shall happen, that in any of the places aforesaid, there shall be vnfit prices set, where<g ref="char:EOLhyphen"/>by the Buyer, or Seller, may haue iust cause of complaint, then in euery such case vpon com<g ref="char:EOLhyphen"/>plaint thereof made, Our will and pleasure is, that all such pretended vndue proceedings, shall bee examined and rectified, by such Commissioners as shall bee hereafter nominated and appointed by the Keeper of Our Great Seale, or Our Treasurer, Chancellor, and Barons of Our Exchequer, or the Chancellor of Our Dutchie of Lancaster.</p>
+            <p>And because the said Gouernour, Assistants, and Fellowship of Soape-makers, are forced to bee at excessiue charges, by imployment of seuerall men in searching, seising, and other discouery of Soape, made or put to sale, contrary to the tenour of the said Proclamations, Decrees, and Letters Patents, which being falsely, or corruptly made, or being put to fale vnmarked, con<g ref="char:EOLhyphen"/>trary to the said Decrees, Proclamations, and Letters Patents is to bee destroyed, as hath beene vsed by the Law, and common custome of the Realme, whereby the said Fellowship re<g ref="char:EOLhyphen"/>ceiue no recompence for their charge and expence; Wee are therefore well pleased, that vpon complaint made in Our Court of Star-Chamber, or Exchequer, of such falsities, corruptions, or abuses, that competent allowance for their charge and expence bee made vnto them, by that Court where they shall complaine, out of the fines that shall be set vpon the Delinquents: And this Our Proclamation shall bee a sufficient warrant for making and giuing such al<g ref="char:EOLhyphen"/>lowance.</p>
+            <pb facs="tcp:188194:3"/>
+            <p> And for discouery of such falsities, corruptions, and abuses, their Officers, and Ministers, may enter in to search, and seize the same in any Houses, Cellers, Shops, Ware-houses, and other places whatsoeuer, aswell within Liberties, as without; Requiring, and hereby straitly Charging and Commanding, all Maiors, Sheriffes, Bayliffes, Constables, and other Our Officers, and louing Subiects, to bee ayding and assisting vnto them in the doing and executing thereof without excuse or delay.</p>
+            <p>And because Wee haue prouided by this and Our form<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Proclamations, Letters Patents and Decrees, that a sufficient quantitie of good and vsefull Soape to be sold at reasonable pri<g ref="char:EOLhyphen"/>ces, shall at all times be in readinesse for the vse of our people, and Wee are resolued so to con<g ref="char:EOLhyphen"/>tinue Our care, that euery man may bee serued thereof at euery Market-Towne, without being put to any vnnecessary trauaile there-abouts, so as none shall bee occasioned to vse any the shifts or inuentions aforesaid. Therefore Wee will and command, that no person or per<g ref="char:EOLhyphen"/>sons, other then such as by the Decree in Our Court of Starre-Chamber heretofore made, are, or shall bee permitted or allowed, doe at any time hereafter presume to make any kinde of Soape in their priuate houses or elswhere, either for their owne vse or otherwise, vpon paine of incurring Our heauie displeasure, and such punishment as their contempt in that behalfe shall demerit.</p>
+            <p>And Wee doe hereby also straitly charge and command, that no person or persons whatsoe<g ref="char:EOLhyphen"/>uer, either Our owne naturall borne Subiects, Denizens or Strangers, Merchants, Ma<g ref="char:EOLhyphen"/>riners, Artificers, or any other doe hereafter import or bring in, or attempt to import or bring into this Our Kingdome of <hi>England,</hi> or Dominion of <hi>Wales,</hi> any Soape from Our Kingdomes of <hi>Scotland</hi> or <hi>Ireland,</hi> or any manner or kinde of Soape, hard or soft whatsoeuer from any For<g ref="char:EOLhyphen"/>reigne parts, or to transport, Load, or cary any manner of soft Soape not marked with the Marke in that behalfe ordained, and hereby prohibited, from or into any parts or places of this Our said Kingdome of <hi>England,</hi> or Dominion of <hi>Wales,</hi> vpon paine of Our heauy displeasure, and to vndergoe such further penalties and punishments as in cases of like nature are vsually inflicted vpon the contemners of Our Royall command and authority.</p>
+            <p>And for the better performance and execution, of all and euery the premisses, Wee doe fur<g ref="char:EOLhyphen"/>ther Charge and Command, all and singuler the Officers of Our Customes, within all and euery the Ports, and Hauens of Our said Kingdome, and Dominions, and the Creekes and members thereof, as also within Our Cinque Ports, and the members thereof: That they and euery of them doe not onely forbeare to take any entrie, or entries, or giue any Bill, or War<g ref="char:EOLhyphen"/>rant, for vnlading, or landing of any Soape prohibited as aforesaid, but doe also cause seizure and stay to bee made thereof to Our vse, vpon paine of forfeiture of his or their Offices respec<g ref="char:EOLhyphen"/>tiuely, and vndergoing Our heauy displeasure, and such other punishments as their neglects and contempts herein shall be found to deserue.</p>
+            <p>And wee doe also straitly Charge and Command all Maiors, Sheriffes, Iustices of Peace, Constables, Headboroughes, Tythingmen, and all other Our Officers, and Ministers, as<g ref="char:EOLhyphen"/>well of Our Admiralty, as also Our Officers of the Cinque Ports, and all other Our louing Subiects to whom it shall or may appertaine, that they and euery of them at all times hereaf<g ref="char:EOLhyphen"/>ter, and from time to time, be ayding and assisting to the said Searchers, and their Deputies, and to such Our Commissioners, as shall bee from time to time appointed for or about this ser<g ref="char:EOLhyphen"/>uice: And also to bee from time to time likewise ayding and assisting to all Our Customers, Searchers, Wayters, and all other person, or persons, therunto Deputed by the said Searchers, or their Deputies, in and for the Seizing, Searching for, or carying away of all such prohi<g ref="char:EOLhyphen"/>bited Soape, imported, brought in, or Landed, or hereafter to be imported, brought in, Lan<g ref="char:EOLhyphen"/>ded, made, bought, sold, vented, or disposed, contrary to this Our Royall Command.</p>
+            <p>And Wee doe hereby require Our Attourney Generall for the time being, that from time to time he carefully proceed in Our Court of Starr-Chamber, or our Court of Exchequer against all such person and persons that shall presume to offend or not yeeld obedience to Our command in the premisses.</p>
+            <closer>
+               <dateline>Giuen at Our Court at Theobalds <date>the thirteenth day of Iuly, in the tenth yeere of Our Reigne of <hi>England, Scotland, France</hi> and <hi>Ireland.</hi>
+                  </date>
+               </dateline>
+               <lb/> God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer, to the Kings most Excellent MAIESTIE: and by the Assignes of Iohn Bill. 1634.</p>
+            <pb facs="tcp:188194:4"/>
+         </div>
+      </back>
+   </text>
+</TEI>
